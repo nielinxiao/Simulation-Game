@@ -33,7 +33,7 @@ namespace YIUIFramework
         public const string UICodeScriptsPath = "Assets/Scripts/" + UIProjectName; //玩家可编写的核心代码部分
 
         [LabelText("YIUI框架所处位置路径")]
-        public const string UIFrameworkPath = "Assets/Plugins/YIUIFramework";
+        public const string UIFrameworkPath = "Assets/YIUIFramework";
 
         [LabelText("YIUI项目代码模板路径")]
         public const string UITemplatePath = UIFrameworkPath + "/YIUIEditor/YIUIAutoTool/Template";
