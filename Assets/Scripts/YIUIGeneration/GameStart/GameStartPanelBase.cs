@@ -22,7 +22,7 @@ namespace YIUI.GameStart
         public override EWindowOption WindowOption => EWindowOption.None;
         public override EPanelLayer Layer => EPanelLayer.Panel;
         public override EPanelOption PanelOption => EPanelOption.None;
-        public override EPanelStackOption StackOption => EPanelStackOption.VisibleTween;
+        public override EPanelStackOption StackOption => EPanelStackOption.Visible;
         public override int Priority => 0;
 
         

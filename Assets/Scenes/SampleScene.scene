@@ -345,6 +345,30 @@ PrefabInstance:
       propertyPath: m_RenderMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5431878875886952655, guid: e4fe1e372c2bc2a4db2b365c6d33590e, type: 3}
+      propertyPath: m_VertexColorAlwaysGammaSpace
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819883541856888300, guid: e4fe1e372c2bc2a4db2b365c6d33590e, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819883541856888300, guid: e4fe1e372c2bc2a4db2b365c6d33590e, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819883541856888300, guid: e4fe1e372c2bc2a4db2b365c6d33590e, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819883541856888300, guid: e4fe1e372c2bc2a4db2b365c6d33590e, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1600
+      objectReference: {fileID: 0}
+    - target: {fileID: 6819883541856888300, guid: e4fe1e372c2bc2a4db2b365c6d33590e, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 900
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -15,4 +15,34 @@ MonoBehaviour:
   ShowPackageView: 1
   ShowEditorAlias: 1
   UniqueBundleName: 1
-  Packages: []
+  Packages:
+  - PackageName: SimulationMain
+    PackageDesc: 
+    EnableAddressable: 0
+    SupportExtensionless: 1
+    LocationToLower: 0
+    IncludeAssetGUID: 0
+    AutoCollectShaders: 1
+    IgnoreRuleName: NormalIgnoreRule
+    Groups:
+    - GroupName: Common
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: DisableGroup
+      Collectors:
+      - CollectPath: Assets/GameRes/YIUI/Common/Sprites
+        CollectorGUID: be663ffc69277954b9f622358aabe879
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/GameRes/YIUI/GameStart/Sprites
+        CollectorGUID: 08c725a6f30ea2e498708ee70a4c8800
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
